@@ -1,3 +1,4 @@
 # LeetCode
 
-#1 Two Sum
+## Title        Difficulty        Language        Time
+#1 Two Sum      Easy              Java            60ms
